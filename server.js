@@ -2,7 +2,7 @@ import TelegramBot from 'node-telegram-bot-api';
 import { translate } from '@vitalets/google-translate-api';
 
 // Telegram bot tokenini o‘rnatish
-const token = 'YOUR_TOKEN';
+const token = '7821924992:AAGGHjbmW-D8UWln9BVwA7zlzlekM4RJOmQ';
 const bot = new TelegramBot(token, { polling: true });
 
 // Foydalanuvchilarning tanlovlari
